@@ -1,0 +1,20 @@
+form {
+    color: white!important;
+    background: rgba(255, 255, 255, 0.15) !important;
+    border: 1px solid rgba(255, 255, 255, 0.35) !important;
+}
+
+.post-input {
+    color: white!important;
+    background: transparent!important;
+    border: 1px solid rgba(255, 255, 255, 0.65) !important;
+}
+
+.post-input::placeholder {
+    color: white!important;
+    opacity: 0.5!important;
+}
+
+.post-btn {
+    width: 19%;
+}
